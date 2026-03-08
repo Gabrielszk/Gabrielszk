@@ -18,15 +18,25 @@
 
 ###
 
-<img align="right" height="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/dgrjoqg-b0f08a21-dcc0-4dc7-9f9a-2a857af8b7b3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYmVkYjM2Mi0xMzI1LTQ3ZmUtOGZiOC04YTEyMjRkZTAyMjEvZGdyam9xZy1iMGYwOGEyMS1kY2MwLTRkYzctOWY5YS0yYTg1N2FmOGI3YjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SIiR4SMGVAlwK7jh1IIm43Brvktopm1Zbwai5O8kCfs"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/suarezz2_7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="right" height="100" src="https://media.tenor.com/vXk9m44qiEYAAAAi/rayquaza-corrupted.gif"  />
+
+###
+
+<img align="left" height="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/dgrjoqg-b0f08a21-dcc0-4dc7-9f9a-2a857af8b7b3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYmVkYjM2Mi0xMzI1LTQ3ZmUtOGZiOC04YTEyMjRkZTAyMjEvZGdyam9xZy1iMGYwOGEyMS1kY2MwLTRkYzctOWY5YS0yYTg1N2FmOGI3YjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SIiR4SMGVAlwK7jh1IIm43Brvktopm1Zbwai5O8kCfs"  />
+
+###
+
+<div align="center">
+  <img height="100" src="https://media1.tenor.com/m/_O_uDirHVIIAAAAC/zeraora.gif"  />
 </div>
 
 ###

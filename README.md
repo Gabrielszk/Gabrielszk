@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img height="110" src="https://tenor.com/bKIdR.gif" alt="mimikyu" />
+  <img height="110" src="https://tenor.com/pt-BR/view/mimikyu-gif-23487069" alt="mimikyu" />
 </p>
 
 <!-- Footer -->

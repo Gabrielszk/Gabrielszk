@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img height="110" src="https://media1.tenor.com/m/_O_uDirHVIIAAAAC/zeraora.gif" alt="zeraora" />
+  <img height="110" src="https://tenor.com/bKIdR.gif" alt="mimikyu" />
 </p>
 
 <!-- Footer -->

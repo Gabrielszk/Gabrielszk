@@ -1,42 +1,72 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a Software Engineering Student from 🇧🇷</h2>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f3f,100:2ea043&height=200&section=header&text=Gabriel%20Suarez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" alt="banner" />
+</p>
 
-###
-
-<p align="left">Olá! Sou aluno na FIAP, estou cursando Engenharia de Software, busco me profissionalizar nas aréas q incluem Engenharia de Software e Cybersecurity.</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/suarezz2_7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://github.com/Gabrielszk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%40+FIAP;Explorando+Cybersecurity+%F0%9F%94%90;Python+%E2%80%A2+Arduino+%E2%80%A2+Linux" alt="typing" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabrielszk&color=2ea043&style=flat-square&label=visitas" alt="visitas" />
+</p>
 
-<img align="right" height="100" src="https://media.tenor.com/vXk9m44qiEYAAAAi/rayquaza-corrupted.gif"  />
+---
 
-###
+<img align="right" height="140" src="https://media.tenor.com/vXk9m44qiEYAAAAi/rayquaza-corrupted.gif" alt="rayquaza" />
 
-<img align="left" height="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/dgrjoqg-b0f08a21-dcc0-4dc7-9f9a-2a857af8b7b3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYmVkYjM2Mi0xMzI1LTQ3ZmUtOGZiOC04YTEyMjRkZTAyMjEvZGdyam9xZy1iMGYwOGEyMS1kY2MwLTRkYzctOWY5YS0yYTg1N2FmOGI3YjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SIiR4SMGVAlwK7jh1IIm43Brvktopm1Zbwai5O8kCfs"  />
+### 🧑‍💻 Sobre mim
 
-###
+- 🎓 Cursando **Engenharia de Software** na **FIAP**
+- 🔐 Focado em me profissionalizar em **Engenharia de Software** e **Cybersecurity**
+- 🐧 Curto tudo que roda em **Linux** e projetos de hardware com **Arduino**
+- 🌱 Sempre aprendendo algo novo, um commit de cada vez
+- 🇧🇷 São Paulo, Brasil
 
-<div align="center">
-  <img height="100" src="https://media1.tenor.com/m/_O_uDirHVIIAAAAC/zeraora.gif"  />
-</div>
+<br clear="right"/>
 
-###
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,arduino,linux,git,github,vscode,bash&theme=dark" alt="skills" />
+</p>
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrielszk&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&locale=pt-br" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielszk&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&locale=pt-br" alt="linguagens" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabrielszk&theme=github-dark-blue&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&locale=pt_BR" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielszk&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area=true&hide_border=true" alt="atividade" />
+</p>
+
+### 🤝 Vamos nos conectar
+
+<p align="left">
+  <a href="https://www.instagram.com/suarezz2_7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU-EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="110" src="https://media1.tenor.com/m/_O_uDirHVIIAAAAC/zeraora.gif" alt="zeraora" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:1f6f3f,100:0d1117&height=110&section=footer" alt="footer" />
+</p>

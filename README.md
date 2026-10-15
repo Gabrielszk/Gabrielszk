@@ -1,16 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6f3f,100:2ea043&height=200&section=header&text=Gabriel%20Suarez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a1220,100:e63946&height=200&section=header&text=Gabriel%20Suarez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18" alt="banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Gabrielszk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%40+FIAP;Explorando+Cybersecurity+%F0%9F%94%90;Python+%E2%80%A2+Arduino+%E2%80%A2+Linux" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%40+FIAP;Explorando+Cybersecurity+%F0%9F%94%90;Python+%E2%80%A2+Arduino+%E2%80%A2+Linux" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabrielszk&color=2ea043&style=flat-square&label=visitas" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Gabrielszk&color=e63946&style=flat-square&label=visitas" alt="visitas" />
 </p>
 
 ---
@@ -36,16 +36,16 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrielszk&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&locale=pt-br" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielszk&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043&locale=pt-br" alt="linguagens" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gabrielszk&show_icons=true&theme=github_dark&hide_border=true&title_color=e63946&icon_color=e63946&locale=pt-br" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielszk&layout=compact&theme=github_dark&hide_border=true&title_color=e63946&locale=pt-br" alt="linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabrielszk&theme=github-dark-blue&hide_border=true&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&locale=pt_BR" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Gabrielszk&theme=github-dark-blue&hide_border=true&ring=e63946&fire=e63946&currStreakLabel=e63946&locale=pt_BR" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/2ea043/Gabrielszk" alt="contribuições" />
+  <img width="95%" src="https://ghchart.rshah.org/e63946/Gabrielszk" alt="contribuições" />
 </p>
 
 ### 🤝 Vamos nos conectar
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU-EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-e63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -68,5 +68,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,50:1f6f3f,100:0d1117&height=110&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:7a1220,100:0d1117&height=110&section=footer" alt="footer" />
 </p>

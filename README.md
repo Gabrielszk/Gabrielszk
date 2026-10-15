@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielszk&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area=true&hide_border=true" alt="atividade" />
+  <img width="95%" src="https://ghchart.rshah.org/2ea043/Gabrielszk" alt="contribuições" />
 </p>
 
 ### 🤝 Vamos nos conectar
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img height="110" src="https://tenor.com/pt-BR/view/mimikyu-gif-23487069" alt="mimikyu" />
+  <img height="110" src="https://media1.tenor.com/m/gNJvOlxRO4oAAAAC/mimikyu.gif" alt="mimikyu" />
 </p>
 
 <!-- Footer -->

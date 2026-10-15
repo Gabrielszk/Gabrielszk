@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/Gabrielszk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%40+FIAP;Explorando+Cybersecurity+%F0%9F%94%90;Python+%E2%80%A2+Arduino+%E2%80%A2+Linux" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%40+FIAP;Explorando+Cybersecurity;Python+%E2%80%A2+Arduino+%E2%80%A2+Linux" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabrielszk&color=e63946&style=flat-square&label=visitas" alt="visitas" />
+  <img src="https://hits.sh/github.com/Gabrielszk.svg?label=visitas&color=e63946&style=flat-square" alt="visitas" />
 </p>
 
 ---
